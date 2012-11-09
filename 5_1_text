@@ -1,0 +1,10 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
+    <title>Task</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script type="text/javascript" src="Task_files/jquery.js"></script>   
+    <link rel="stylesheet" href="Task_files/index.css" type="text/css">
+</head>
+<body>
+    <div id="head1"><div id="logo"></div><ul id="topmenu"><li class="msg">Welcome back, Jon</li><li class="fst"><a class="link1" chref="#">Log out</a></li>
+    <li><a class="link1" href="#">My Profile</a></li><li><a class="link1" href="#">Help</a></li><li><a class="link1" href="#">Contact Us</a></li></ul>
