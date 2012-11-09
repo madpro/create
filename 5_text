@@ -1,0 +1,80 @@
+</div>
+
+    <div id="head2">
+
+        <div class="coursedetails"><img src="Task_files/cources.png" alt="What is Physics?"><ul id="info"><li class="title">What is Physics?</li><li class="desc"><strong>Energy and Problems of a Technical Society, 2nd Edition</strong>, by Jack J. Kraushaar, Robert A. Ristinen</li><li class="instructor">Instructor: <a class="link1" href="#">Nick Gould</a></li></ul></div>
+        <div class="addinfo">
+            <div id="unilogo"></div>
+            <div id="department">Department: <strong>School of Sciences</strong></div>
+        </div>
+
+        <ul id="coursemenu">
+            <li class="selected fst"><strong>COURSEWORK</strong></li>
+            <li><a class="link1" href="#">GRADES</a></li>
+            <li><a class="link1" href="#">COURSE DOCUMENTS</a></li>
+            <li><a class="link1" href="#">COLLABORATION</a></li>
+        </ul>
+
+    </div>
+
+   <div id="content">
+        <div class="page">
+        <div class="tabs" id="tabs">
+            <div onclick="changeStyle(this)" class="item off">Learning plan</div>
+            <div onclick="changeStyle(this)" class="item on">All content</div>
+        </div>
+
+
+
+        <div class="source">
+
+
+
+
+            <h1>Understanding and putting the flying Circus to the Test</h1>
+
+<span id="returntoassignments" class="roundborder off"><i></i><b>Return to assignments</b><em></em></span>
+<hr class="srcline">
+<table id="layout" cellpadding="0" cellspacing="0">
+<tbody><tr>
+    <td id="contextmenu" class="off">
+        <div class="space"><strong>Assignment sections</strong>
+
+<div class="sections">
+<span id="filter" class="roundborder on"><i></i><b>Show Required ONLY</b><em></em></span>
+<ul id="sectmenu">
+    <li class="unpointed off"><b>Assignment Details</b></li>
+    <li class="off"><em></em><b>Section 4.2</b></li>
+    <li class="off"><em></em><b>Section 4.3</b>
+        <ul class="submenu">
+            <li class="off">
+                <b>Reading &amp; Practice</b>
+                <ul class="ssubmenu">
+                    <li class="on"><em></em><a class="link1" href="#">Concept Content 1</a></li>
+                    <li class="off"><em></em><a class="link1" href="#">Concept Content 2 asdfasdf</a></li>
+                    <li class="off"><em></em><a class="link1" href="#">Concept Content 3 as asdf fasdfasdf</a></li>
+                    <li class="off"><em></em><a class="link1" href="#">Non-Assessed Practice Question</a></li>
+                </ul>
+            </li>
+            <li class="on"><b>Extensions</b></li>
+        </ul>
+    </li>
+    <li class="off"><em></em><b>Section 4.5</b>
+        <ul class="submenu">
+            <li class="off">
+                <b>Reading &amp; Practice</b>
+                <ul class="ssubmenu">
+                    <li class="on"><em></em><a class="link1" href="#">Concept Content 1</a></li>
+                    <li class="off"><em></em><a class="link1" href="#">Concept Content 2 asdfasdf</a></li>
+                    <li class="off"><em></em><a class="link1" href="#">Concept Content 3 as asdf fasdfasdf</a></li>
+                    <li class="off"><em></em><a class="link1" href="#">Non-Assessed Practice Question</a></li>
+                </ul>
+            </li>
+            <li class="on"><b>Extensions</b></li>
+        </ul>
+    </li>
+    <li class="off"><em></em><b>Additional Extensions</b></li>
+    <li class="off"><em></em><b>Problems</b></li>
+</ul>
+
+</div>
